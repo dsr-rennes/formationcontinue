@@ -1,0 +1,54 @@
+---
+title: "Manipulation et visualisation de données"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+   logo: LogoAgrocampusOuest.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+---
+
+
+
+```{r setup_teaching, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
+
+
+La visualisation de données est une étape essentielle de l’analyse mais également de la communication de résultats. Cette formation donne des clés pour la manipulation de données dans R et la production de graphiques pertinents.
+
+
+## Objectifs
+
+  A l’issue de cette formation, les participants sauront
+
+- importer un jeu de données dans R
+- filtrer les données, 
+- calculer des résumés statistiques par groupes,
+- représenter les données sous forme pertinente (histogramme, boites à moustache, carte, …)
+- personnaliser les représentations pour en extraire le maximum d’information
+
+
+## Contenu
+
+ Après un bref historique du logiciel R, nous allons découvrir les fonctionnalités récentes offertes par les derniers développement. En effet la manipulation de données a été grandement optimisée et simplifiée avec l’arrivée de la suite de packages du tidyverse. Cette formation propose à des débutants dans l’utilisation de R de prendre immédiatement en main ces outils modernes de manipulation de données. Pour tirer un profit maximal, nous verrons aussi comment produire des graphiques pertinents pour présenter des données ou des résultats d’analyse en utilisant les outils modernes de la production graphique (ggplot).
+
+## Points forts
+
+De nombreux exercices tout au long de la formation permettront de se familiariser avec les outils présentés.
+
+## Public ciblé
+
+Auncun connaissance préalable du logiciel R n’est recquise, ce module est ouvert aux débutants qui souhaitent se former à l’utilisation moderne du logiciel R. Ce module peut également intéresser les praticiens de R qui souhaiteraient s’adapter au développement du tidyverse et des graphiques avec ggplot.
+
+## Intervenants
+
+Mathieu Emily, Marie-Pierre Etienne, Magalie Houée-Bigot, Francois Husson, 
+
+
+Nombre de stagiaires maximum :  12
+
+
+## Données

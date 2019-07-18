@@ -1,0 +1,38 @@
+name: "DsR"
+output_dir: "."
+navbar:
+  logo:
+  title: 'Formation en science des données'
+  left:
+  - text: "L'équipe "
+    icon: fa-child
+    href: equipe.html
+  - text: "dépôt github"
+    icon: fa-github
+    href: https://github.com/MarieEtienne
+  right:
+  - text: "Formations"
+    href: teaching.html
+    icon: fa-adjust
+    menu:
+      - text: "Manipulation et visualisation de données"
+        href: manipvisu.html
+      - text: "Modélisation statistique"
+        href: mod.html
+      - text: "Analyse de données avec R"
+        href: add.html
+      - text: "Sensométrie avec R"
+        href: senso.html
+      - text: "Traitement d'enquêtes avec R"
+        href: enquete1.html
+      - text: "Traitement d'enquêtes avancé avec R"
+        href: enquete2.html
+
+     
+      
+output:
+  html_document:
+    theme: lumen
+    highlight: haddock
+
+    

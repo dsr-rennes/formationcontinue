@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+index_cache/*
+manipvisu_cache/*
+senso_cache/*
+add_cache/*
+
