@@ -1,0 +1,56 @@
+---
+title: "Démarche statistique et modèles linéaires avec R"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+   logo: LogoAgrocampusOuest.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+---
+
+
+
+```{r setup_teaching, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
+
+
+Au coeur de la démarche statistique, la modélisation est une étape fondamentale qui permet de formaliser une question portant sur les liens existants entre des variables observées lors d’un recueil de données. Cette formation a deux objectifs complémentaires : (1) la présentation des éléments des modèles linéaires (régression linéaire, anova, modèles mixtes) et (2) l’utilisation du logiciel R pour la résolution de ces modèles et l’interprétation des résultats.
+
+
+## Objectifs
+
+A l’issue de cette formation, les participants seront capables de :
+
+- Proposer une écriture formelle d’un modèle et des hypothèses associées
+- Estimer le modèle à l’aide du logiciel R
+- Interpréter les sorties du logiciel et en déduire des conclusions 
+
+
+## Contenu
+
+ A partir d’exemples, nous introduirons les éléments du modèle de régression linéaire simple tels que l’écriture du modèle et des hypothèses de modélisation, l’estimation des paramètres par maximisation de la vraisemblance. Motivés par des illustrations, nous proposerons d’étendre le modèle à la régression linéaire multiple et nous présenterons la démarche de sélection de modèles. Toujours à base d’exemples, nous présenterons le modèle d’analyse de la variance à 1 et plusieurs facteurs et introduirons les éléments de l’analyse post-hoc. La formation se terminera par une introduction aux modèles mixtes qui permettent la modélisation de facteurs aléatoires.
+
+## Points forts
+
+De nombreux exemples tout au long de la formation permettront de se familiariser avec les outils présentés. La mise en situation a pour objectif de faire le lien entre les choix de modélisation et l’interprétation des résultats.
+
+## Public ciblé
+
+Ce module est ouvert à toute personne souhaitant acquérir un niveau d’expertise dans la bonne utilisation des modèles de régressions simple et multiple, d’analyse de la variance et mixtes.
+
+## Intervenants
+
+Mathieu Emily, Marie-Pierre Etienne, Magalie Houée-Bigot, Francois Husson, 
+
+
+Nombre de stagiaires maximum :  12
+
+
+## Pré-requis
+
+Avoir à minima une maitrise des commandes de base du logiciel R comme l’importation d’un jeu de données. Idéalement les participants pourront avoir suivi la formation Manipulation et visualisation des données.
+
+## Données
