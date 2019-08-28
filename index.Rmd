@@ -25,7 +25,7 @@ library(ggplot2)
 Les formateurs sont des enseignants chercheurs et des ingénieurs au sein du département Mathématique et Informatique d'Agrocampus Ouest. Ils participent tous à la formation initiale des étudiants ingénieurs et ont une activité de recherche dans le domaine des statistiques appliquées. 
 
 
-- [David Causeur](math.agrocampus-ouest.fr/infoglueDeliverLive/membres/david.causeur)
+- [David Causeur](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/David.Causeur)
 - [Mathieu Emily](http://emily.perso.math.cnrs.fr/Mathieu_EMILYs_homepage/Home.html)
 - [Marie-Pierre Etienne](http://mpetienne.org)
 - [Magalie Houée-Bigot](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/Magalie.Hou%C3%A9e-Bigot)
