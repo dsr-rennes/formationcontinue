@@ -37,9 +37,10 @@ Les formateurs sont des enseignants chercheurs et des ingénieurs au sein du dé
 
 |  |  |  |  |
 |:--------------:|:--------------:|:--------------:|:--------------:|
-|[<img src="img/visu_hexa.png" alt="drawing" width="100%"/></img>  ](manipvisu.html) | |[<img src="img/R_resize.png" alt="drawing" width="100%"/></img>  ](add.html)|  [<img src="img/img_senso.png" alt="drawing" width="100%"/>](senso.html)   |
-| **Manipulation et**  \ **visualisation de données**  | [**Démarche statistique et modèles linéaires avec R**](modelelineaire.html) | **Analyse de données** |  **Sensométrie** \ **avec R**|
-|[**Machine learning avec R**](machinelearning.html) | | | |
+|[<img src="img/visu_hexa.png" alt="drawing" width="98%"/></img>  ](manipvisu.html)   |   [<img src="img/visu_mod_lin_2.png" alt="drawing" width="98%"/></img>  ](modelelineaire.html) |[<img src="img/visu_anado.png" alt="drawing" width="98%"/></img>  ](add.html)|  [<img src="img/visu_senso.png" alt="drawing" width="98%"/>](senso.html)   |
+| **Manipulation et**  \ **visualisation de données**  | **Démarche statistique et modèles linéaires avec R** | **Analyse de données** |  **Sensométrie** \ **avec R**|
+|[<img src="img/visu_machineLearning.png" alt="drawing" width="98%"/></img>  ](machinelearning.html)  | | | |
+|**Machine learning avec R** | | | |
 
 
 ## L'école
