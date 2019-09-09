@@ -17,8 +17,10 @@ navbar:
     menu:
       - text: "Manipulation et visualisation de données"
         href: manipvisu.html
-      - text: "Modélisation statistique"
-        href: mod.html
+      - text: "Démarche statistique et modèles linéaires avec R"
+        href: modelelineaire.html
+      - text: "Machine learning avec R"
+        href: machinelearning.html
       - text: "Analyse de données avec R"
         href: add.html
       - text: "Sensométrie avec R"

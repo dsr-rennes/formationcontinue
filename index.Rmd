@@ -22,13 +22,13 @@ library(ggplot2)
 
 ## L'équipe
 
-Les formateurs sont des enseignants chercheurs et des ingénieurs au sein du département Mathématique et Informatique d'Agrocampus Ouest. Ils participent tous à la formation initiale des étudiants ingénieurs et ont une activité de recherche dan sle domaine des statistiques appliquées. 
+Les formateurs sont des enseignants chercheurs et des ingénieurs au sein du département Mathématique et Informatique d'Agrocampus Ouest. Ils participent tous à la formation initiale des étudiants ingénieurs et ont une activité de recherche dans le domaine des statistiques appliquées. 
 
 
-- [David Causeur](math.agrocampus-ouest.fr/infoglueDeliverLive/membres/david.causeur)
+- [David Causeur](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/David.Causeur)
 - [Mathieu Emily](http://emily.perso.math.cnrs.fr/Mathieu_EMILYs_homepage/Home.html)
 - [Marie-Pierre Etienne](http://mpetienne.org)
-- [Magalie Houée Bigot](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/Magalie.Hou%C3%A9e-Bigot)
+- [Magalie Houée-Bigot](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/Magalie.Hou%C3%A9e-Bigot)
 - [François Husson](https://husson.github.io/)
 - [Sébastien Lé](http://sebastien.ledien.free.fr/me.html)
 
@@ -37,8 +37,10 @@ Les formateurs sont des enseignants chercheurs et des ingénieurs au sein du dé
 
 |  |  |  |  |
 |:--------------:|:--------------:|:--------------:|:--------------:|
-|[<img src="img/visu_hexa.png" alt="drawing" width="100%"/></img>  ](manipvisu.html) | |[<img src="img/R_resize.png" alt="drawing" width="100%"/></img>  ](add.html)|  [<img src="img/img_senso.png" alt="drawing" width="100%"/>](senso.html)   |
-| **Manipulation et**  \ **visualisation de données**  | **Modélisation statistique** | **Analyse de données** |  **Sensométrie** \ **avec R**|
+|[<img src="img/visu_hexa.png" alt="drawing" width="98%"/></img>  ](manipvisu.html)   |   [<img src="img/visu_mod_lin_2.png" alt="drawing" width="98%"/></img>  ](modelelineaire.html) |[<img src="img/visu_anado.png" alt="drawing" width="98%"/></img>  ](add.html)|  [<img src="img/visu_senso.png" alt="drawing" width="98%"/>](senso.html)   |
+| **Manipulation et**  \ **visualisation de données**  | **Démarche statistique et modèles linéaires avec R** | **Analyse de données** |  **Sensométrie** \ **avec R**|
+|[<img src="img/visu_machineLearning.png" alt="drawing" width="98%"/></img>  ](machinelearning.html)  | | | |
+|**Machine learning avec R** | | | |
 
 
 ## L'école
