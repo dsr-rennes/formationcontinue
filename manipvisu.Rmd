@@ -45,7 +45,7 @@ Auncun connaissance préalable du logiciel R n’est recquise, ce module est ouv
 
 ## Intervenants
 
-Mathieu Emily, Marie-Pierre Etienne, Magalie Houée-Bigot, Francois Husson, 
+Mathieu Emily, Marie-Pierre Etienne, Magalie Houée-Bigot, François Husson 
 
 
 Nombre de stagiaires maximum :  12

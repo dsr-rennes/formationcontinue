@@ -16,10 +16,29 @@ output:
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 ```
 
+
+Dans l'analyse de données numériques, qu'elles proviennent d'enquêtes ou d'expérimentations, le recours à la statistique est indispensable. Les méthodes de l'analyse des données (on dit aussi « statistique exploratoire multidimensionnelle »), jouent un rôle important car elles permettent de visualiser des données volumineuses (des dizaines voire des centaines de variables). Cette formation est centrée sur les méthodes les plus courantes (ACP, ACM, CAH), depuis la conception du traitement, la gestion des données manquantes, la mise en oeuvre informatique jusqu'à l'interprétation des résultats. La mise en oeuvre de ces méthodes sera faite à l'aide du package R FactoMineR.
+
 ## Objectifs
 
+Rendre les participants autonomes dans la mise en oeuvre des méthodes de base de l'analyse des données (choix des méthodes, gestion des données manquantes, obtention des résultats, construction de graphiques mis en forme, interprétation)
 
 ## Contenu
 
+- Analyse en composantes principales (ACP)
+- Analyse des correspondances multiples (ACM)
+- Classification ascendante hiérarchique (CAH)
+
+## Points forts
+
+Présentation intuitive des méthodes; mise en oeuvre des méthodes à l'aide du package R FactoMineR. Le package FactoMineR est un logiciel de référence en analyse des données au niveau international. Il a été développé par les formateurs de cette session. 
+
+## Public ciblé
+
+Technicien et ingénieur confronté à l'analyse de tableaux de données.
+
+## Intervenants
+
+Magalie Houée-Bigot, François Husson, Sébastien Lê
 
 ## Données

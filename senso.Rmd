@@ -16,10 +16,40 @@ output:
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 ```
 
+De plus en plus de scientifiques utilisent le logiciel R aussi bien dans le milieu de la recherche que de l'industrie. Sa constante évolution, sa gratuité et la présence de nombreuses méthodes dédiées à différents domaines d'applications en font un logiciel très intéressant. Dans le domaine du traitement de données sensorielles, le package SensoMineR est un package très complet : il permet à la fois de traiter des données de profil sensoriel classique (type QDA®), de relier ces données à des données de préférence à l'aide de la cartographie des préférences ou encore de traiter des données issues de nouvelles méthodes de recueil (napping®, tri libre, etc.). Cette formation est axée sur ces différentes problématiques; la mise en oeuvre sera faite à l'aide du logiciel R et du package SensoMineR.
+
 ## Objectifs
 
+Apporter aux stagiaires les bases pour être autonomes s'ils souhaitent utiliser R afin de traiter des données sensorielles
 
 ## Contenu
 
+- Présentation du logiciel R, du package SensoMineR
+- Installer et charger un package Importer un jeu de données
+- Recodage du jeu de données
+- Quelques graphiques et analyses descriptives 
+- Caractérisation de produits 
+- Analyse multivariée d'un espace produit 
+- Analyse de la performance d'un panel/de panelistes 
+- Analyse de données holistiques (napping®, tri libre) 
+- Cartographie des préférences (mise en lien de données sensorielles et de données de préférence)
+- Application sur des jeux de données réels en lien avec les thématiques de recherche des stagiaires
+
+## Points forts
+
+- Présentation intuitive des méthodes et du logiciel
+- Rappels théoriques brefs pour plus d'applications sur ordinateur
+
+## Public ciblé
+
+Techniciens, ingénieurs ou chercheurs ayant des bases en statistique et ayant déjà utilisé le logiciel R
+
+## Intervenants
+
+François Husson, Sébastien Lê
+
+## Pré-requis
+
+Avoir à minima une maitrise des commandes de base du logiciel R
 
 ## Données
