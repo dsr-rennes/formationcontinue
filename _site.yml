@@ -25,10 +25,7 @@ navbar:
         href: add.html
       - text: "Sensométrie avec R"
         href: senso.html
-      - text: "Traitement d'enquêtes avec R"
-        href: enquete1.html
-      - text: "Traitement d'enquêtes avancé avec R"
-        href: enquete2.html
+
 
      
       

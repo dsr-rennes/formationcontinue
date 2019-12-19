@@ -1,5 +1,5 @@
 ---
-title: "Présentation"
+title: "Formation continue en science des données"
 output: 
   html_document:
    toc: true
@@ -20,32 +20,36 @@ library(ggplot2)
 ```
 
 
-## L'équipe
 
-Les formateurs sont des enseignants chercheurs et des ingénieurs au sein du département Mathématique et Informatique d'Agrocampus Ouest. Ils participent tous à la formation initiale des étudiants ingénieurs et ont une activité de recherche dans le domaine des statistiques appliquées. 
-
-
-- [David Causeur](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/David.Causeur)
-- [Mathieu Emily](http://emily.perso.math.cnrs.fr/Mathieu_EMILYs_homepage/Home.html)
-- [Marie-Pierre Etienne](http://mpetienne.org)
-- [Magalie Houée-Bigot](http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres/Magalie.Hou%C3%A9e-Bigot)
-- [François Husson](https://husson.github.io/)
-- [Sébastien Lé](http://sebastien.ledien.free.fr/me.html)
 
 ## Les formations
 
 
-|  |  |  |  |
-|:--------------:|:--------------:|:--------------:|:--------------:|
-|[<img src="img/visu_hexa.png" alt="drawing" width="98%"/></img>  ](manipvisu.html)   |   [<img src="img/visu_mod_lin_2.png" alt="drawing" width="98%"/></img>  ](modelelineaire.html) |[<img src="img/visu_anado.png" alt="drawing" width="98%"/></img>  ](add.html)|  [<img src="img/visu_senso.png" alt="drawing" width="98%"/>](senso.html)   |
-| **Manipulation et**  \ **visualisation de données**  | **Démarche statistique et modèles linéaires avec R** | **Analyse de données** |  **Sensométrie** \ **avec R**|
-|[<img src="img/visu_machineLearning.png" alt="drawing" width="98%"/></img>  ](machinelearning.html)  | | | |
-|**Machine learning avec R** | | | |
+|  |  |  |  
+|:--------------:|:--------------:|:--------------:|
+|[<img src="img/visu_hexa.png" alt="drawing" width="98%"/></img>  ](manipvisu.html)   |   [<img src="img/visu_mod_lin_2.png" alt="drawing" width="98%"/></img>  ](modelelineaire.html) |[<img src="img/visu_machineLearning.png" alt="drawing" width="98%"/></img>  ](machinelearning.html)  | 
+| **Manipulation et**  \ **visualisation de données**  | **Démarche statistique et modèles linéaires avec R** | **Machine learning avec R** |
+[<img src="img/visu_anado.png" alt="drawing" width="98%"/></img>  ](add.html)|  [<img src="img/visu_senso.png" alt="drawing" width="98%"/>](senso.html)| |
+|**Analyse de données **|**Sensométrie** \ **avec R**| |
+  
+## L'équipe
+
+Les formateurs sont des enseignants chercheurs et des ingénieurs au sein du département Statistique et Informatique d'Agrocampus Ouest. Ils participent tous à la formation initiale des étudiants ingénieurs et ont une activité de recherche dans le domaine des statistiques appliquées. 
+
+
+## Informations générales
+
+Pour toute information concernant les inscriptions, contacter le service de formation continue d'Agrocampus Ouest :
+[formco@agrocampus-ouest.fr](formco@agrocampus-ouest.fr)
+
+### En savoir plus 
+
+[Programme de la formation continue à Agrocampus Ouest](http://formationcontinue.agrocampus-ouest.fr/infoglueDeliverLive/)
 
 
 ## L'école
 
-Les formations sont dispensées à Agrocampus Ouest, Rennes.
+Les formations sont dispensées à [Agrocampus Ouest, Rennes](https://www.agrocampus-ouest.fr/).
 
 ```{r, echo=FALSE}
 df <- tibble(long = -1.71, lat = -48.114, name='ACO - Bat 24' )
