@@ -1,0 +1,18 @@
+---
+title: "Miscellanous datasets"
+output: 
+  html_document:
+   logo: LogoAgrocampusOuest.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+* [Palmer Penguins](datasets/penguins.csv) a classical dataset available in the palmerpenguins package

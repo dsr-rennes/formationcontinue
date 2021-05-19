@@ -6,12 +6,12 @@ navbar:
   left:
   - text: "L'équipe "
     icon: fa-child
-    href: equipe.html
+    href: http://math.agrocampus-ouest.fr/infoglueDeliverLive/membres
   - text: "dépôt github"
-    icon: fa-github
-    href: https://github.com/MarieEtienne
+    icon: fab fa-github
+    href: https://github.com/dsr-rennes
   right:
-  - text: "Formations"
+  - text: "Formations continues"
     href: teaching.html
     icon: fa-adjust
     menu:
