@@ -14,5 +14,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+# Documents pour les TDs de démarche scientifique
 
-* [Palmer Penguins](datasets/penguins.csv) a classical dataset available in the palmerpenguins package
+
+## Jeux de données
+* [Palmer Penguins](datasets/penguins.csv) : un jeu de données classique sur la morphologie de diverses espèces de manchots disponibledans le  package [https://allisonhorst.github.io/palmerpenguins/]
+
+
+## Scripts R
+* [Script TD1](datasets/TD1_script.R) pour bien commencer avec R.
