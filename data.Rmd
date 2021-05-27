@@ -1,5 +1,5 @@
 ---
-title: "Miscellanous datasets"
+title: "Démarche statistique"
 output: 
   html_document:
    logo: LogoAgrocampusOuest.jpg
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Documents pour les TDs de démarche scientifique
+# Documents pour les TDs 
 
 
 ## Jeux de données
