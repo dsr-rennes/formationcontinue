@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Jeux de données
 * [Palmer Penguins](data/penguins.csv) : un jeu de données classique sur la morphologie de diverses espèces de manchots disponibledans le  package [https://allisonhorst.github.io/palmerpenguins/]
 
+* [cafe](data/cafe.csv) : un jeu de données sur la qualité du café en fonction de son origine.
+
 
 ## Scripts R
 * [Script TD1](data/TD1_script.R) pour bien commencer avec R.
